@@ -1,0 +1,5 @@
+[33mcommit e1d0db0827a096bdc2169570b1743583a7d25e0c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Yaroslava Nazarova <ulicadom96@gmail.com>
+Date:   Sun Oct 4 13:10:25 2026 +0300
+
+    feat: complete variant 20 with library and tests
